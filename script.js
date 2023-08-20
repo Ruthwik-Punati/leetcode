@@ -867,3 +867,5 @@ console.log(countries);
 
 countries.splice(2, 0, "China");
 console.log(countries);
+
+document.write("Hihi");
